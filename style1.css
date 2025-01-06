@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    color: white;
+    gap: 10px;
+    align-items:start;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+}
+.bi-people>span{
+  position: absolute;
+  top: 0px;
+  right: 75px;
+
+}
+

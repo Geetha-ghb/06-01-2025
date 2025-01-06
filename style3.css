@@ -1,0 +1,7 @@
+.box{
+        background-color: black;
+        color: white;
+        display: flex;
+        text-align: start;
+        justify-content: space-evenly; 
+}

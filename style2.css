@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    position: relative;
+    color: white;
+    display: flex;
+    text-align: start;
+
+} 
+.item{
+    color: white;
+    gap: 50px;
+    padding: 10px;
+}
+i{
+    color: white;
+    right: 0px;
+    position: absolute;
+    padding: 10px;
+}
